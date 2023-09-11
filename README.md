@@ -1,0 +1,2 @@
+# repositorio-_demo
+Repositorio de la tesis NANOPARTÍCULAS DE Pd SOPORTADAS EN SBA-15 EN LA OXIDACIÓN CATALÍTICA VÍA HÚMEDA DE FENOL   
